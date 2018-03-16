@@ -4,22 +4,20 @@
 
 # README #
 
-This README contain the basic project informations that you need to know and the steps that are necessary to get your application up and running.
+This repository contains a bower module.
+Creates a custom login form created for IT-Maniax projects.
 
 ***
 
-### Programming languages & technologies ###
-+ Client-side Languages (frontend):
-    + **CSS v.3** [[documentation](https://www.w3schools.com/css/default.asp "CSS Documentation")]
-    + **HTML v.5** [[documentation](https://www.w3schools.com/html/default.asp "HTML Documentation")] 
-    + **JavaScript v.1.8** [[documentation](https://www.w3schools.com/js/default.asp "JavaScript Documentation")]
-        + JavaScript Library: **jQuery v.3.2.1** [[official documentation](http://api.jquery.com/ "jQuery Official Documentation")]
+### Module file structure ###
+
++ Please read and respect the module file structure from this tutorial: [[Module file structure](https://docs.google.com/document/d/1UiS2r0h39aF0cVeuA8LIYx4aYw2ZY0-7UVhRBpMfo-o "IT-Maniax module file structure")]
 
 ***
 
 ### Git workflow ###
 
-+ Please read and respect the steps from this tutorial: [[GIT workflow](https://docs.google.com/document/d/1jGZec9NLEwojVST8ymmodbIdcT45rZ4-AeD6MhRrqZA "IT-Maniax GIT workflow")]
++ Please read and respect the steps from this tutorial: [[GIT workflow](https://docs.google.com/document/d/1FVlsaadtFB1JIoSuZJ1zPSf-Gz7_C_bWeaEYc30MICU "IT-Maniax GIT workflow")]
 
 ***
 
